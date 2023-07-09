@@ -45,13 +45,12 @@ For any inquiries or questions, please contact [Ben9371@gmail.com](mailto:Ben937
 // Add later projects website -> You can also visit my [website](https://your_website_url) for more information.
 
 ```
-
 To Do:
 Add my website.
 Improve the accuracy of the machine learning model. (overfitting right now)
 Predict the winners of other types of competitions. 
 Deploy the machine learning model to a web application.
-
+```
 
 Thank you
 Ben
