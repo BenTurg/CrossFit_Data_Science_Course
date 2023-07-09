@@ -1,23 +1,6 @@
-# CrossFit_Data_Science_Project
 # CrossFit Competition Winner Prediction
+## CrossFit_Data_Science_Project
 
-```markdown
-<h1 align="center">CrossFit Competition Winners Prediction</h1>
-
-<p align="center">
-  <strong>Predicting the winners in CrossFit competitions using machine learning</strong>
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#information">Information</a> •
-  <a href="#open-source-project">Open Source Project</a> •
-  <a href="#license">License</a> •
-  <a href="#contact">Contact</a>
-</p>
-
----
 
 ## Features
 
@@ -26,7 +9,7 @@
 - Identify winners of the CrossFit Games and label them in the dataset
 - Perform data preprocessing and exploratory data analysis (EDA)
 - Train and evaluate machine learning models for winner prediction
-- Display accuracy of the models
+- Display the accuracy of the models
 
 ## Installation
 
@@ -64,7 +47,7 @@ For any inquiries or questions, please contact [Ben9371@gmail.com](mailto:Ben937
 ```
 
 To Do:
-Add my personal website.
+Add my website.
 Improve the accuracy of the machine learning model. (overfitting right now)
 Predict the winners of other types of competitions. 
 Deploy the machine learning model to a web application.
