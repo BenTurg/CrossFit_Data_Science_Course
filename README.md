@@ -52,6 +52,5 @@ Predict the winners of other types of competitions.
 Deploy the machine learning model to a web application.
 ```
 
-Thank you
-Ben
+Thank you.
 Ben9371@gmail.com
